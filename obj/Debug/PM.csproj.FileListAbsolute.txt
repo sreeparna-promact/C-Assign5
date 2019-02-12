@@ -1,0 +1,7 @@
+C:\Users\sreeparna\source\repos\PM\PM\bin\Debug\PM.exe.config
+C:\Users\sreeparna\source\repos\PM\PM\bin\Debug\PM.exe
+C:\Users\sreeparna\source\repos\PM\PM\bin\Debug\PM.pdb
+C:\Users\sreeparna\source\repos\PM\PM\obj\Debug\PM.csprojAssemblyReference.cache
+C:\Users\sreeparna\source\repos\PM\PM\obj\Debug\PM.csproj.CoreCompileInputs.cache
+C:\Users\sreeparna\source\repos\PM\PM\obj\Debug\PM.exe
+C:\Users\sreeparna\source\repos\PM\PM\obj\Debug\PM.pdb
